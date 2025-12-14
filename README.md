@@ -2,7 +2,7 @@
 
 🔗 Project Links
 	•	GitHub Repository: https://github.com/codewakash/Shop-Sweet
-	•	Live Demo: https://sweet-india-admiiiin.netlify.app/
+	•	Live Demo: https://sweet-india-admin.netlify.app/
 
 ⸻
 
